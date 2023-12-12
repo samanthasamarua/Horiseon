@@ -19,7 +19,9 @@ N/A
 
 # Usage
 Horiseon site is utilised to promote the purpose of the organisation which is online SEO, reputation management & Social media marketting services.
+<div>
 <img src="./Images/Horiseon_Webpage.png" alt= "Horisean Homepage">
+</div>
 
 # References
 1. <a href="https://www.youtube.com/watch?v=QyFcl_Fba-k&t=205s">Getting Started with Github pages </a>
