@@ -31,9 +31,9 @@ Future projection of the site (Recommended Improvements)
 
 # References
 PROVIDE LINKS TO REFERENCES
-<a href="https://www.youtube.com/watch?v=QyFcl_Fba-k&t=205s">Getting Started with Github pages </a>
-<a href="https://www.w3schools.com/"> w3schools </a>
-Class content 
+1. <a href="https://www.youtube.com/watch?v=QyFcl_Fba-k&t=205s">Getting Started with Github pages </a>
+2. <a href="https://www.w3schools.com/"> w3schools </a>
+3. Class content 
 
 
 # Contributing
