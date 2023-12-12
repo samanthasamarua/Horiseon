@@ -18,7 +18,8 @@ This project involved code refactoring the Horiseon home webpage. The purpose of
 N/A 
 
 # Usage
-Horiseon site is utilised to promote the purpose of the organisation which is online SEO, reputation management & Social media marketting services. 
+Horiseon site is utilised to promote the purpose of the organisation which is online SEO, reputation management & Social media marketting services.
+<img src="./Images/Horiseon_Webpage.png" alt= "Horisean Homepage">
 
 # References
 1. <a href="https://www.youtube.com/watch?v=QyFcl_Fba-k&t=205s">Getting Started with Github pages </a>
