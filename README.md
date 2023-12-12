@@ -3,10 +3,6 @@
 # Description:
 This project involved code refactoring the Horiseon home webpage. The purpose of refactoring the webpage code is to ensure it meets accessibiity standards and optimise the site for search engines. 
 
-# Links:
-# URL of deployed application :
-
-
 # Modifications Listed:
 1. Non-semantic HTML elements were replaced with semantic HTML and follow a logical structure
 2. Alt attributes included in image elements. 
